@@ -120,8 +120,8 @@ ul {
 .nav-footer a:focus,
 .nav-footer a:hover,
 .envelope:focus,
-.smartphone:focus,
 .envelope:hover,
+.smartphone:focus,
 .smartphone:hover {
   color: var(--accent-color);
 }
@@ -308,6 +308,9 @@ ul {
 .contacts a {
   color: var(--contacts-color);
 }
+.footer-box {
+  display: inline-flex;
+}
 .nav-footer {
   background-color: var(--background-color);
   padding-top: 60px;
@@ -329,9 +332,7 @@ ul {
 .socials-footer {
   margin-left: 70px;
 }
-.footer-box {
-  display: inline-flex;
-}
+
 .text-footer {
   font-weight: 700;
   font-size: 14px;
