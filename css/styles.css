@@ -119,9 +119,9 @@ ul {
 .nav-contact a:hover,
 .nav-footer a:focus,
 .nav-footer a:hover,
-.envelope :focus,
-.smartphone :focus,
-.envelope :hover,
+.envelope:focus,
+.smartphone:focus,
+.envelope:hover,
 .smartphone:hover {
   color: var(--accent-color);
 }
