@@ -96,7 +96,6 @@ ul {
   fill: var(--contacts-header-color);
 }
 
-
 .nav-footer a {
   text-decoration: none;
   color: var(--contrast-text-color);
@@ -124,6 +123,7 @@ ul {
 .smartphone:focus,
 .smartphone:hover {
   color: var(--accent-color);
+  fill: var(--accent-color);
 }
 .main-header {
   background-color: var(--background-color);
