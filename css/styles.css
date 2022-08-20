@@ -117,7 +117,8 @@ ul {
 .nav-contact a:focus,
 .nav-contact a:hover,
 .nav-footer a:focus,
-.nav-footer a:hover .envelope :focus,
+.nav-footer a:hover,
+.envelope :focus,
 .smartphone :focus,
 .envelope :hover,
 .smartphone:hover {
